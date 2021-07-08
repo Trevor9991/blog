@@ -1,0 +1,4 @@
+[submodule "my-blog/public"]
+	path = my-blog/public
+	url = https://github.com/Trevor9991/0xTrevor-Blog.github.io
+	branch = main
